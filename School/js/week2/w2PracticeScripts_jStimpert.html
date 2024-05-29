@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<!--Joshua Stimpert - Web Development with Javascript fall 2019-->
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+        <title>Javascript Guided Activity -  Week 2 Joshua Stimpert</title>
+    </head>
+
+    <body>
+        <h1>Javascript Guided Activity - Week 2 - Joshua Stimpert</h1>
+        <h2>Check the console for results!</h2>
+        <button onclick="myFunction()">Click me</button>
+
+        <script>
+          function myFunction()
+          {
+            alert("Hello there! I am an alert box!");
+          }
+
+          function checkOddOrEven(inNum){
+            if(inNum % 2 == 0){
+              return ('<br>' + inNum + ' is an even number');
+            }
+            else {
+              return ('<br>' + inNum + ' is an odd number');
+            }
+          }
+
+          function changeText(){
+            document.getElementById('newText').innerHTML = 'JavaScript is so much FUN!';
+          }
+
+          const favFood = prompt('What is your favorite food?');
+          const codePrac = prompt('How many hours a day will you pracrice coding?');
+          const hours = codePrac * 365;
+
+          document.write('<br>Your favorite food is ' + favFood);
+          document.write('<br> You will practice ' + codePrac + ' hrs a day which equates to ' + hours + ' hours a year. Will this be enough hours to become an expert?');
+
+          /* created match function script */
+          const numIn = prompt('Please enter a number to check for odd or even')
+          document.write(checkOddOrEven(numIn));
+        </script>
+
+        <p>Your thoughts about Javascript! <strong id='newText'>This test will be replaced!</strong></p>
+        <input type ='button' onClick='changeText()' value='Click for New Text'>
+</body></html>

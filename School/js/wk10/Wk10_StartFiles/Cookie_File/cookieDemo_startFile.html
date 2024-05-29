@@ -1,0 +1,45 @@
+//Joshua Stimpert - Week 10GA - Web Development with Javascript - Fall 2019
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>JavaScript Language Basics</title>
+    </head>
+
+    <body>
+	<div class="container">
+        <h1>JavaScript Language Basics</h1>
+        <h2>Cookie Demonstration</h2>
+
+        <form>
+            <select id = "clrChoice" onchange="setColor()">
+                <option value = "Select Color">Select a Color</option>
+                <option value = "#f00">Red</option>
+                <option value = "#008000">Green</option>
+                <option value = "#00f">Blue</option>
+                <option value = "#ffebcd">Blanched Almond</option>
+            </select>
+        </form>
+        <script type = "text/javascript">
+            window.onload = function(){
+              if(document.cookie.length !=0){
+                let nameValueArray = document.cookie.split("=");
+                document.bgColor = nameValueArray[1];
+                document.getElementById("clrChoice").value = nameValueArray[1];
+              }
+            }
+
+            function setColor(){
+              const chosenColor = document.getElementById("clrChoice").value;
+              if(chosenColor != "Select Color"){
+                document.bgColor = chosenColor;
+                document.cookie = "color = " + chosenColor + "; expires = Wed, 13 Nov 2019 01:00:00 UTC";
+              }
+            }
+        </script>
+    </div>
+	</body>
+
+
+</html>

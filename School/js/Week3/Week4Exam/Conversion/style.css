@@ -1,0 +1,185 @@
+/*Joshua Stimpert - WDD221 Week 1 syle.css*/
+
+html{
+  font-family: 'Lexend Zetta', sans-serif;
+  height: 100%;
+  overflow: hidden;
+  background-Color: #222;
+}
+
+body{
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  perspective: 1px;
+  /*Preserve transforms in order to give floating 3D effect to object*/
+  transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+header{
+  box-sizing: border-box;
+  padding: 25vw 0 0 1vw;
+  position: relative;
+  transform-style: inherit;
+  width: 100vw;
+  background-color: rgba(201, 76, 76, 0.4);
+}
+
+header h1{
+  margin-top: -100px;
+}
+
+.content-box article
+{
+  font-size: 150%;
+   text-align: center;
+}
+
+#cValue{
+  font-size:400%;
+  opacity: 0;
+  transition: all 0.50s
+}
+
+.content-box fieldset
+{
+   border: none;
+}
+
+.content-box input
+{
+  font-size:150%;
+   width: 10em;
+   height: 2em;
+   clear: left;
+}
+
+.cotent-box .kgValue h1 {
+  font-size:400%;
+}
+nav{
+  box-sizing: border-box;
+  min-height: 30vh;
+  padding: 2vw 0 0 1vw;
+  position: relative;
+  transform-style: inherit;
+  width: 100vw;
+}
+
+nav li{
+  display: inline;
+}
+nav li a{
+  text-decoration: none;
+}
+
+/*Content box represents any object that requires a floating overlay over the paralaxxed background*/
+.content-box{
+  box-sizing: border-box;
+  min-height: 50vh;
+  padding: 2vw 0 0 1vw;
+  position: relative;
+  transform-style: inherit;
+  width: 100vw;
+  background-Color: #21201f;
+  margin: 0;
+  -webkit-filter: drop-shadow(0px 3px 10px rgba(0,0,0,.8));
+  filter: drop-shadow(0px 0px 10px rgba(0,0,0,.8));
+}
+
+
+nav li a:hover{
+    background-color: rgba(201, 76, 76, 0.4);
+    color: orange;
+}
+
+nav li:not(:last-child)::after{
+  content: " // ";
+}
+.content-box a{
+  text-decoration: none;
+  display:block;
+  color:white;
+  background-color: rgba(76, 76, 76, 0.2);
+}
+.content-box a:hover{
+  background-color: rgba(201, 76, 76, 0.2);
+}
+p:hover{
+  background-color: rgba(201, 76, 76, 0.2);
+}
+
+.nav-bar {
+  border-bottom: 1px solid rgba(255,255,255,1);
+  min-height: 0vh;
+  padding: 0vw 0 0 0vw;
+}
+
+header, header:before{
+  background: 50% 50% / cover;
+}
+
+/*This styling makes an image "before" the header and sets its 3D space down 1px on the Z-axis in order to give it a parallax effect by pushing the image further back into 3D space*/
+header::before{
+  bottom:0;
+  content: "";
+  left:0;
+  position: absolute;
+  right:0;
+  top:0;
+  display: block;
+  /*Uses a linear gradient in order to achieve a scanline effect over the provided image link*/
+  background: repeating-linear-gradient(-45deg, transparent, transparent 2px, rgba(0,0,0,.6) 3px, rgba(0,0,0,.6) 3px, transparent 4px), url("https://www.setaswall.com/wp-content/uploads/2017/03/4K-Road-Marking-Trees-Wallpaper-3840x2160.jpg");
+  background-size: cover;
+  transform-origin: center center 0;
+  transform: TranslateZ(-1px) scale(2);
+  z-index: -1;
+  min-height: 100vh;
+  min-width: 100%;
+}
+
+header * {
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  text-align: center;
+  margin: 0;
+  padding: 1em 0;
+  text-shadow: 0px 0px 10px #000, 2px 2px 10px #000;
+}
+
+.content-box * {
+  font-size: 80%;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+article
+{
+  font-size: 200%;
+   text-align: center;
+   border: 0;
+}
+
+nav *{
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color:#f73643;
+  text-shadow: 0px 0px 10px #000, 2px 2px 10px #000;
+  /*font-size: 1.17em; margin: .83em 0;*/
+  /*background-color: rgba(201, 76, 76, 0.2);*/
+}
+
+footer *{
+  font-weight: lighter;
+  font-size: 65%;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin: 0;
+}

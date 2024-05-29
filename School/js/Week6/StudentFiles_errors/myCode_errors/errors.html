@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>JavaScript Language Basics</title>
+    </head>
+
+    <body>
+        <h1>JavaScript Language Basics</h1>
+		
+		<!--<p>Click the following to see the result:</p>
+		
+		<form>
+			<input type = "button"  value = "Click Me" onclick = "myFunction();">
+		</form>
+		
+		<h2 style="color: #f00">JavaScript : try..catch..throw Example</h2>-->
+		
+		<p>Please input a number between 5 and 10:</p>
+
+			<input id="demo" type="text">
+			<button type="button" onclick="myFunction()">Test Input</button>
+
+		<p id="message"></p>
+
+<script>
+function myFunction() 
+{
+    var message, x;
+    message = document.getElementById("message");
+    message.innerHTML = "";
+    x = document.getElementById("demo").value;
+    try { 
+        if(x == "")  throw "is Empty";
+        if(isNaN(x)) throw "not a number";
+        if(x > 10)   throw "too high";
+        if(x < 5)    throw "too low";
+    }
+    catch(err) {
+        message.innerHTML = "Input " + err;
+    }
+    finally 
+	{
+        document.getElementById("demo").value = "";
+    }
+}
+</script>
+		
+		<script src="sampleCode.js"></script>
+    </body>
+	
+</html>
+
+
+

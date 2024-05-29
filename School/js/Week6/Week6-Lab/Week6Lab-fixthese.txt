@@ -1,0 +1,41 @@
+//joshua Stimpert - Week 6 lab - Fall 2019
+
+//What does the throw keyword do?
+//The throw keyword throws a user defined exception to be caught with a try catch statement.
+
+//What is the difference between a TypeError and a ReferenceError?
+//A type error is an error that occures when a variable contains a value, but the operation trying to be performed on the value is not valid for the type. A reference error occurs when a variable is called that doesn't exist at all.
+
+//Provide a bried summery as to your approach to debugging Javascript code.
+//First I just test the page to get an idea of how it should work and figure out what isn't working, then I peek at the console to see if there any blatant Errors
+//Next, I open the file and try to follow the logic of the program to better understand what it supposed to be happeneing and catch and syntax errors I see. If there are no apparent errors, I start to add console.log() statements to see what parts of the code are being executed and what isn't.
+
+
+//Has the debugging process helped you with your Javascripy assignments?
+//Absolutley, even when the program is simple, errors still happen. I have to use debugging skills to go back and figure out what went wrong.
+
+//Share some specific examples of how debugging has helped you become a more proficient coder
+//Debugging is a critical part of the programming experience, it's hard to cite a specific example; but when learning new languages or programming concepts; I often like to break other people's code and debug the issue in order to better understand what is going on in a program.
+
+//Fix the broken code
+
+//1
+
+for(let i = 0; i < 5; i++){
+  console.log(i);
+}
+
+//2
+function addEven(num){
+  if(num % 2 == 0){
+    return num + 5;
+  }
+}
+
+//3
+
+function loopToFive(){
+  for(let i = 0; i < 5; i++){
+    console.log(i);
+  }
+}

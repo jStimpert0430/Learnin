@@ -1,0 +1,62 @@
+<!-- Joshua Stimpert - Week 7 lab - Web development with Javascript Fall 2019 !-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- make sure for now that your script tag is in the head -->
+    <title>DOM Lab</title>
+</head>
+<body id= "wrapper">
+    <div class="hello">
+        Hello World
+    </div>
+    <div class="hello">
+        Hello Everyone!
+    </div>
+   <div class = "link">
+    <a href="#">This link goes nowhere!</a>
+   </div>
+    <button>Click me!</button>
+    <script>
+        //set HTML elements into variables
+        let wrapper = document.getElementById("wrapper");
+        let div = document.getElementsByTagName("div");
+        let divsWithClassOfHello = document.getElementsByClassName("hello");
+        let firstDiv = document.getElementsByTagName("div")[0];
+
+        //Modify attributes
+        firstDiv.innerHTML = "Hola Mundo!";
+        firstDiv.style.color = "#ff0000";
+        firstDiv.style.backgroundColor = "#d3d3d3";
+        let secondDiv = document.getElementsByTagName("div")[1];
+        secondDiv.innerText = "Hola a todos!";
+
+        //Create Elements
+        let newDiv = document.createElement("div");
+        let button = document.createElement("button");
+        button.innerText = "I am a button created with Javascript!";
+        wrapper.appendChild(button);
+
+        //Remove Elements
+        let removeLink = document.getElementsByTagName("a")[0];
+        let linkDiv = document.getElementsByTagName("div")[2];
+        linkDiv.removeChild(removeLink);
+
+        //Select all divs and change color
+        let divs = document.querySelectorAll("div");
+        for(let i = 0; i < divs.length; i++){
+          divs[i].style.backgroundColor = "#f9f";
+        }
+
+        //Create another button and set it as disabled
+        let newDiv2 = document.createElement("div");
+        let button2 = document.createElement("button");
+        button2.innerText = "I am a disabled button with custom colors!";
+        wrapper.appendChild(button2);
+        button2.style.color = "#d2d2d2";
+        button2.style.backgroundColor = "#111";
+        button2.disabled = true;
+
+    </script>
+</body>
+</html>

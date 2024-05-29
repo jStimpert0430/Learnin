@@ -1,0 +1,66 @@
+<!--Joshua Stimpert - week 9 GA - Web Development with Javascript - fall 2019!-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Link to the past map</title>
+        <link rel = "stylesheet" href = "css/style.css">
+    </head>
+
+    <body>
+        <h1>Link to the Past - Light World Interactive Map</h1>
+
+        <!--map container-->
+        <div id = "mapContainer"></div>
+
+        <!--div for location-->
+        <div id = "locations">
+
+        <div class = "place palace" id = "place1">
+
+            <img src = "images/pendant1.png"><p> Tower of Hera  </p>
+
+        </div>
+        <div class = "place palace" id = "place2">
+
+            <img src = "images/pendant2.png"><p>Eastern Palace</p>
+
+        </div>
+
+        <div class = "place palace" id = "place3">
+
+            <img src = "images/pendant3.png"><p>Desert Palace</p>
+
+        </div>
+
+        <div class = "place keyItems" id = "place4">
+
+            <img src = "images/boots.png"><p>Dash Boots</p>
+
+        </div>
+
+        <div class = "place weapons" id = "place5">
+
+            <img src = "images/sword.png"><p> Master Sword</p>
+
+        </div>
+
+
+        </div>
+
+        <div id = "menuBox">
+            Map Filter:
+            <br>
+            <select name = "place" id = "place">
+                <option value = "All">Show All Places</option>
+                <option value = "palaces">Dungeons</option>
+                <option value = "keyItems">Key Items</option>
+                <option value = "weapons">Weapon Locations</option>
+            </select>
+        </div>
+
+    <script src = "js/jquery.js"></script>
+	<script src = "js/map.js"></script>
+	</body>
+</html>
