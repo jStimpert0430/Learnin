@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="jStimpert0430-Week5Lab" EntryPointType="jStimpert0430_Week5Lab.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="jStimpert0430-Week5Lab" Source="jStimpert0430-Week5Lab.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Input.Toolkit" Source="System.Windows.Controls.Input.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Layout.Toolkit" Source="System.Windows.Controls.Layout.Toolkit.dll" />
+    <AssemblyPart x:Name="WPFToolkit" Source="WPFToolkit.dll" />
+  </Deployment.Parts>
+</Deployment>

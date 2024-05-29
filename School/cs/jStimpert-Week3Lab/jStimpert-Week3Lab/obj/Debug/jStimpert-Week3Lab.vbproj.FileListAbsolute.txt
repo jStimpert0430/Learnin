@@ -1,0 +1,10 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\bin\Debug\jStimpert-Week3Lab.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\bin\Debug\jStimpert-Week3Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\bin\Debug\jStimpert-Week3Lab.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\bin\Debug\jStimpert-Week3Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert_Week3Lab.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert_Week3Lab.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert-Week3Lab.vbproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert-Week3Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert-Week3Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week3Lab\jStimpert-Week3Lab\obj\Debug\jStimpert-Week3Lab.pdb

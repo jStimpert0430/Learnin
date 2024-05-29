@@ -1,0 +1,12 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\jStimpert0430-AdvVB-Week7Lab.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\people.mdf
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\people_log.ldf
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\jStimpert0430-AdvVB-Week7Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\jStimpert0430-AdvVB-Week7Lab.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\bin\Debug\jStimpert0430-AdvVB-Week7Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430_AdvVB_Week7Lab.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430_AdvVB_Week7Lab.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430-AdvVB-Week7Lab.vbproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430-AdvVB-Week7Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430-AdvVB-Week7Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-AdvVB-Week7Lab\jStimpert0430-AdvVB-Week7Lab\obj\Debug\jStimpert0430-AdvVB-Week7Lab.pdb

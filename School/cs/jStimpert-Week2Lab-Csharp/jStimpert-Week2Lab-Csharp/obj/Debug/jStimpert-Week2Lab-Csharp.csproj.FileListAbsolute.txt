@@ -1,0 +1,11 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\bin\Debug\jStimpert-Week2Lab-Csharp.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\bin\Debug\jStimpert-Week2Lab-Csharp.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\bin\Debug\jStimpert-Week2Lab-Csharp.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert-Week2Lab-Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert_Week2Lab_Csharp.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert_Week2Lab_Csharp.Form2.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert_Week2Lab_Csharp.Form3.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert_Week2Lab_Csharp.Properties.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert-Week2Lab-Csharp.csproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert-Week2Lab-Csharp.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-Week2Lab-Csharp\jStimpert-Week2Lab-Csharp\obj\Debug\jStimpert-Week2Lab-Csharp.pdb

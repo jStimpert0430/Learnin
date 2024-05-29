@@ -1,0 +1,9 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\bin\Debug\jStimpert0430-Week4Lab.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\bin\Debug\jStimpert0430-Week4Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\bin\Debug\jStimpert0430-Week4Lab.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430-Week4Lab.csprojResolveAssemblyReference.cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430_Week4Lab.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430_Week4Lab.Properties.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430-Week4Lab.csproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430-Week4Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert0430-Week4Lab\jStimpert0430-Week4Lab\obj\Debug\jStimpert0430-Week4Lab.pdb

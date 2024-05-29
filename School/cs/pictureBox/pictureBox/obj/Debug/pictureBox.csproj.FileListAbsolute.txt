@@ -1,0 +1,9 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\bin\Debug\pictureBox.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\bin\Debug\pictureBox.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\bin\Debug\pictureBox.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.Properties.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.csproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\pictureBox\pictureBox\obj\Debug\pictureBox.pdb

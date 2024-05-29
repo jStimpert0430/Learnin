@@ -1,0 +1,12 @@
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\jStimpert-AdvVBWeek6Lab.exe.config
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\NORTHWND.MDF
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\NORTHWND_log.ldf
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\jStimpert-AdvVBWeek6Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\jStimpert-AdvVBWeek6Lab.pdb
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\bin\Debug\jStimpert-AdvVBWeek6Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert_AdvVBWeek6Lab.Form1.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert_AdvVBWeek6Lab.Resources.resources
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert-AdvVBWeek6Lab.vbproj.GenerateResource.Cache
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert-AdvVBWeek6Lab.exe
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert-AdvVBWeek6Lab.xml
+C:\Users\Bunta\Desktop\Desktop\school\Csharp\jStimpert-AdvVBWeek6Lab\jStimpert-AdvVBWeek6Lab\obj\Debug\jStimpert-AdvVBWeek6Lab.pdb

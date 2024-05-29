@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+jStimpert0430-AdvVBWeek6Lab
+</name>
+</assembly>
+<members>
+<member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerCustomerDemoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerDemographicsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeeTerritoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.Order_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.RegionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.SuppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.TerritoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerCustomerDemoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerDemographicsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeeTerritoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.Order_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.RegionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.SuppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.TerritoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerCustomerDemoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomerDemographicsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.EmployeeTerritoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.Order_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.RegionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.ShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.SuppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet.TerritoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.CustomerDemographicsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.Order_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.RegionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.ShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.SuppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TerritoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateAll(jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.NORTHWNDDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:jStimpert0430_AdvVBWeek6Lab.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:jStimpert0430_AdvVBWeek6Lab.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:jStimpert0430_AdvVBWeek6Lab.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
